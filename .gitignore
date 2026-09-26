@@ -1,5 +1,11 @@
 # Project
 data/
+catboost_info/
+
+quickstart.ipynb
+
+submission.csv
+sample_submission.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
