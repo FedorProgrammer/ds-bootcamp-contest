@@ -16,8 +16,6 @@ joblib==1.6.0
     # via scikit-learn
 kiwisolver==1.5.1
     # via matplotlib
-lightgbm==4.7.0
-    # via ds-bootcamp-contest
 matplotlib==3.11.2
     # via
     #   catboost
@@ -25,7 +23,6 @@ matplotlib==3.11.2
     #   seaborn
 narwhals==2.26.0
     # via
-    #   lightgbm
     #   plotly
     #   scikit-learn
 numpy==2.5.3
@@ -33,7 +30,6 @@ numpy==2.5.3
     #   catboost
     #   contourpy
     #   ds-bootcamp-contest
-    #   lightgbm
     #   matplotlib
     #   pandas
     #   scikit-learn
@@ -63,7 +59,7 @@ scikit-learn==1.9.1
 scipy==1.18.1
     # via
     #   catboost
-    #   lightgbm
+    #   ds-bootcamp-contest
     #   scikit-learn
 seaborn==0.13.2
     # via ds-bootcamp-contest
